@@ -142,26 +142,14 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
 <br>
 <img
     align="left" 
-    alt="Pong" 
-    title="Pong"
+    alt="Simple TDS" 
+    title="Simple TDS"
     width="120px" 
     style="padding-right: 10px;"
-    src="https://img.itch.zone/aW1nLzIyMzI3ODUwLnBuZw==/315x250%23c/4luCzC.png"
+    src="https://img.itch.zone/aW1nLzIyMzI4MjI4LnBuZw==/315x250%23c/Atlx2M.png"
 />
 
-[Pong](https://gfac.itch.io/pong) - Primeiro jogo que desenvolvi no curso NoNeclass, é basicamente um jogo de ping pong feito para pc e celular, tem como jogar com um jogador contra a CPU ou dois jogadores um contra o outro, o jogo tambem tem uma progressão bem rápida então dificilmente as partidas duram bastante tempo.
-
-<br>
-<img
-    align="left" 
-    alt="Jogo dos pássaros" 
-    title="Jogo dos pássaros"
-    width="120px" 
-    style="padding-right: 10px;"
-    src="https://img.itch.zone/aW1nLzIyMzI3ODc5LnBuZw==/315x250%23c/avaE8C.png"
-/>
-
-[Jogo dos Pássaros](https://gfac.itch.io/flappy-pssaros) - Um jogo criado como a segunda atividade no curso da NoNeClass, é basicamente um flappy bird onde você coleta peixes e tenta a cada tentativa chegar mais longe, podendo desbloquear skins para o seu pássaro com os peixes coletados.
+[Simple Top Down Shooter](https://gfac.itch.io/simple-top-down-shooter) - Um jogo de tiro com tela de cima criado como o quarto jogo do curso NoNeClass, aqui você tem dois tipos de inimigos, aqueles que dão dano e aqueles que botam ovos que criam mais desses inimigos que dão dano, seu principal objetivo é sobreviver enquanto destroi os inimigos que botam ovos.
 
 <br>
 <img
@@ -178,11 +166,23 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
 <br>
 <img
     align="left" 
-    alt="Simple TDS" 
-    title="Simple TDS"
+    alt="Jogo dos pássaros" 
+    title="Jogo dos pássaros"
     width="120px" 
     style="padding-right: 10px;"
-    src="https://img.itch.zone/aW1nLzIyMzI4MjI4LnBuZw==/315x250%23c/Atlx2M.png"
+    src="https://img.itch.zone/aW1nLzIyMzI3ODc5LnBuZw==/315x250%23c/avaE8C.png"
 />
 
-[Simple Top Down Shooter](https://gfac.itch.io/simple-top-down-shooter) - Um jogo de tiro com tela de cima criado como o quarto jogo do curso NoNeClass, aqui você tem dois tipos de inimigos, aqueles que dão dano e aqueles que botam ovos que criam mais desses inimigos que dão dano, seu principal objetivo é sobreviver enquanto destroi os inimigos que botam ovos.
+[Jogo dos Pássaros](https://gfac.itch.io/flappy-pssaros) - Um jogo criado como a segunda atividade no curso da NoNeClass, é basicamente um flappy bird onde você coleta peixes e tenta a cada tentativa chegar mais longe, podendo desbloquear skins para o seu pássaro com os peixes coletados.
+
+<br>
+<img
+    align="left" 
+    alt="Pong" 
+    title="Pong"
+    width="120px" 
+    style="padding-right: 10px;"
+    src="https://img.itch.zone/aW1nLzIyMzI3ODUwLnBuZw==/315x250%23c/4luCzC.png"
+/>
+
+[Pong](https://gfac.itch.io/pong) - Primeiro jogo que desenvolvi no curso NoNeclass, é basicamente um jogo de ping pong feito para pc e celular, tem como jogar com um jogador contra a CPU ou dois jogadores um contra o outro, o jogo tambem tem uma progressão bem rápida então dificilmente as partidas duram bastante tempo.
