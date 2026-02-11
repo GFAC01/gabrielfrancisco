@@ -21,7 +21,7 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC9QyJh4qTpwTHQQj568gJzQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/GFAC01?tab=followers">
         <img 
             alt="Seguidores Github" 
             title="Me siga no GitHub" 
