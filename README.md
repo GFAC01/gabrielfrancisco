@@ -204,4 +204,4 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Roblox_%282025%29_%28App_Icon%29.svg/250px-Roblox_%282025%29_%28App_Icon%29.svg.png"
 />
 
-[Site de ecommerce do Roblox](https://github.com/GFAC01/Site-pro-trabalho-da-faculdade) - foi um trabalho dado no final do segundo semestre, a tarefa principal era utilizar um Framework sorteado pelo professor para facilitar na criação do site, o Framework sorteado para mim e minha dupla foi o MaterializeCSS
+[Site de ecommerce do Roblox](https://github.com/GFAC01/Site-pro-trabalho-da-faculdade) - foi um trabalho dado no final do segundo semestre, a tarefa principal era utilizar um Framework sorteado pelo professor para facilitar na criação do site, o Framework sorteado para mim e minha dupla foi o MaterializeCSS e no final da construção do site a gente ainda utilizou o cloudflare para deixar ele online com um domínio próprio de forma gratuita.
