@@ -188,6 +188,9 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
 [Pong](https://gfac.itch.io/pong) - Primeiro jogo que desenvolvi no curso NoNeclass, é basicamente um jogo de ping pong feito para pc e celular, tem como jogar com um jogador contra a CPU ou dois jogadores um contra o outro, o jogo tambem tem uma progressão bem rápida então dificilmente as partidas duram bastante tempo.
 
 <br>
+"Alguns jogos e projetos ainda estão em desenvolvimento por isso ainda não foram postados"
+
+<br>
 <br>
 
 ### Sites
