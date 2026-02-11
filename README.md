@@ -186,3 +186,18 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
 />
 
 [Pong](https://gfac.itch.io/pong) - Primeiro jogo que desenvolvi no curso NoNeclass, é basicamente um jogo de ping pong feito para pc e celular, tem como jogar com um jogador contra a CPU ou dois jogadores um contra o outro, o jogo tambem tem uma progressão bem rápida então dificilmente as partidas duram bastante tempo.
+
+
+### Sites
+
+<br>
+<img
+    align="left" 
+    alt="Site de ecommerce do Roblox" 
+    title="Site de ecommerce do Roblox"
+    width="120px" 
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Roblox_%282025%29_%28App_Icon%29.svg/250px-Roblox_%282025%29_%28App_Icon%29.svg.png"
+/>
+
+[Site de ecommerce do Roblox](https://github.com/GFAC01/Site-pro-trabalho-da-faculdade) - foi um trabalho dado no final do segundo semestre, a tarefa principal era utilizar um Framework sorteado pelo professor para facilitar na criação do site, o Framework sorteado para mim e minha dupla foi o MaterializeCSS
